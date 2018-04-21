@@ -9,8 +9,8 @@ INSTALL_REQUIRES = [
 
 
 setup(
-    name='flask-uniteller',
+    name='flask_uniteller',
     version='1.0',
     description='Python library for Uniteller API',
-    url='https://github.com/14MR/flask-uniteller',
+    url='https://github.com/14MR/flask_uniteller',
 )
